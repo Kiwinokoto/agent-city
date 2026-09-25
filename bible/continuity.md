@@ -18,41 +18,48 @@
 - Fluffy cat introduced in the home atelier.
 - Working name: **Raptor**.
 - Preserve Raptor through continuous home-at-the-atelier shots unless framing deliberately excludes the foreground.
-- Raptor can remain peacefully asleep while absurd agent activity happens around him; this contrast is now an established visual joke.
+- Raptor can remain peacefully asleep while absurd agent activity happens around him; this contrast is an established visual joke.
 - Raptor should not steal focus unless a later beat deliberately uses the cat.
 
 ## Chair
 - Same simple upholstered chair model throughout the opening sequence.
 - Initial state: neutral light grey/beige.
-- After Rose executes C002: clean, polished, glossy pink; agents work extremely quickly and with excellent finish when the instruction itself is clear.
-- Avoid sloppy drips/runoff unless a later gag explicitly requires a failed execution.
-- Track paint state explicitly case by case.
+- After C002: clean, polished, glossy pink.
+- Agents work extremely quickly and with excellent finish when the instruction itself is clear.
+- Avoid sloppy drips/runoff unless a later gag explicitly requires failed execution.
+- Track paint state case by case.
 
 ## Prompt / summon interface
 - In C001 the heroine **dictates the request into her smartphone**; the phone is visibly listening.
 - With her other hand she points toward the chair.
-- The spoken request is **« Tu peux me repeindre ça en rose ? »**.
-- The agents may later have access to the spoken prompt without necessarily having seen the physical pointing gesture. This is useful ambiguity, not an error.
-- No agent is visible before the request.
+- Canonical spoken request: **« Tu peux me repeindre ça en rose ? »**
+- Agents may have access to the spoken prompt without necessarily having seen the physical pointing gesture; this ambiguity is intentional.
+- The phone may leave the framing after submission; it does not need to remain visibly in-hand in every later case.
 
 ## Agents
+
 ### General
-- Agents are intentionally **small and childlike/chibi**, much smaller than the heroine (roughly knee-high is a useful visual target).
+- Agents are intentionally **small and childlike/chibi**, much smaller than the heroine; roughly knee-high is a useful target.
 - Cute does not mean harmless: collectively they can perform enormous amounts of work extremely quickly.
-- Execution can be near-instant, precise and polished; their later problems come primarily from interpretation, coordination and scope rather than basic craftsmanship.
+- Execution is near-instant, precise and polished; later failures come mainly from interpretation, coordination and scope, not craftsmanship.
 
 ### Rose
 - Original instruction agent.
-- Cute compact chibi proportions: round head/body language, simple rounded limbs, antenna, expressive face, small utility belt/boots.
-- Avoid elongated or realistic humanoid anatomy.
+- Compact round chibi anatomy, antenna, expressive face, small utility belt/boots.
+- Avoid elongated or realistic humanoid proportions.
 - Energetic and literal.
-- When appearing to execute a request, Rose can already be working in the same instant as the `POUF !`.
+- Can appear already executing in the same instant as the `POUF !`.
 
 ### Bleu
 - Represents the newer instruction.
 - Same species/design language as Rose, blue palette.
-- On source-page-1 conflict scenes where both appear: **Bleu on the left, generally facing right; Rose on the right, generally facing left.**
-- Preserve this staging in the confrontation/paint-beam beat.
+
+### Spatial continuity from C005 onward
+- **Rose stays on the LEFT of the chair.**
+- **Bleu appears/stays on the RIGHT of the chair.**
+- Do not swap sides or teleport them merely to improve composition.
+- This approved webtoon staging supersedes the old source-page left/right layout.
+- In confrontation shots, they should naturally face inward toward each other across the chair.
 
 ## Opening wording
 Current canonical opening request:
@@ -63,4 +70,4 @@ The conversational/question form and phone dictation leave room for later agent 
 ## General
 - Track clothing by story day.
 - A character may be omitted because of a deliberate camera change; they must not appear to have physically vanished within what reads as the same continuous shot.
-- Human-like continuity mistakes may occasionally be funny if intentional; impossible spatial/state discontinuities are not acceptable by default.
+- Human-like mistakes may occasionally be funny when intentional; impossible spatial/state discontinuities are not acceptable by default.
