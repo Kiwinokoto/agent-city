@@ -46,28 +46,31 @@ The old 10-page comic is source material, not the target layout. The webtoon is 
 - Dialogue: **« Nouvelle instruction détectée. Priorité mise à jour. »**
 - Outgoing: Rose left, Bleu right, chair still pink, heroine present, Raptor asleep.
 
-## Next sequence
-
 ### C006 — Bleu executes the update
-**Status:** NEXT
+**Status:** APPROVED
 
-- Bleu stays on the **right** and immediately begins repainting the pink chair blue.
+- Bleu stays on the **right** and immediately repaints the pink chair blue.
 - Rose stays on the **left** and recognizes the contradiction.
-- Preserve the agents' established small/chibi scale and the heroine in the background.
-- Painting should be fast and professionally clean, not dripping/sloppy.
-- Dialogue from source beat:
+- Agents keep their established small/chibi scale; heroine remains present in the background; Raptor sleeps through it.
+- Painting is fast and professionally clean.
+- Dialogue:
   - Bleu: **« Exécution en cours. »**
   - Rose: **« Conflit de consignes. »**
-- Outgoing: chair blue or almost fully blue; both agents remain present.
+- Outgoing: chair blue/almost fully blue; Rose left; Bleu right; both agents remain present.
+
+## Next sequence
 
 ### C007 — Rose reasserts pink
-**Status:** planned
-- Rose paints; dialogue **« Rose. »**
+**Status:** NEXT
+- Rose stays on the **left**, is the speaker and the painter.
+- Rose repaints the blue chair pink.
+- Dialogue: **« Rose. »**
 - First alternation beat; lettering black/normal.
+- Bleu remains on the **right**; heroine and Raptor remain in continuity unless framing deliberately excludes them.
 
 ### C008 — Bleu reasserts blue
 **Status:** planned
-- Bleu paints; dialogue **« Bleu. »**
+- Bleu is the speaker and painter; dialogue **« Bleu. »**
 - Second alternation beat; lettering black/normal.
 
 ### C009 — Rose again
