@@ -17,20 +17,36 @@
 ## Raptor
 - Fluffy cat introduced in the home atelier.
 - Working name: **Raptor**.
-- Because the cat now exists on-screen, preserve continuity and give it meaningful/background recurrence rather than letting it randomly vanish from home scenes.
+- Preserve Raptor through continuous home-at-the-atelier shots unless framing deliberately excludes the foreground.
+- Raptor can remain peacefully asleep while absurd agent activity happens around him; this contrast is now an established visual joke.
 - Raptor should not steal focus unless a later beat deliberately uses the cat.
 
 ## Chair
 - Same simple upholstered chair model throughout the opening sequence.
 - Initial state: neutral light grey/beige.
+- After Rose executes C002: clean, polished, glossy pink; agents work extremely quickly and with excellent finish when the instruction itself is clear.
+- Avoid sloppy drips/runoff unless a later gag explicitly requires a failed execution.
 - Track paint state explicitly case by case.
 
+## Prompt / summon interface
+- In C001 the heroine **dictates the request into her smartphone**; the phone is visibly listening.
+- With her other hand she points toward the chair.
+- The spoken request is **« Tu peux me repeindre ça en rose ? »**.
+- The agents may later have access to the spoken prompt without necessarily having seen the physical pointing gesture. This is useful ambiguity, not an error.
+- No agent is visible before the request.
+
 ## Agents
+### General
+- Agents are intentionally **small and childlike/chibi**, much smaller than the heroine (roughly knee-high is a useful visual target).
+- Cute does not mean harmless: collectively they can perform enormous amounts of work extremely quickly.
+- Execution can be near-instant, precise and polished; their later problems come primarily from interpretation, coordination and scope rather than basic craftsmanship.
+
 ### Rose
 - Original instruction agent.
 - Cute compact chibi proportions: round head/body language, simple rounded limbs, antenna, expressive face, small utility belt/boots.
 - Avoid elongated or realistic humanoid anatomy.
-- Energetic and literal. When appearing to execute a request, can already be working immediately.
+- Energetic and literal.
+- When appearing to execute a request, Rose can already be working in the same instant as the `POUF !`.
 
 ### Bleu
 - Represents the newer instruction.
@@ -39,10 +55,10 @@
 - Preserve this staging in the confrontation/paint-beam beat.
 
 ## Opening wording
-Current intended request wording to preserve unless explicitly revised:
+Current canonical opening request:
 **« Tu peux me repeindre ça en rose ? »**
 
-The deliberately conversational/question form helps leave room for later agent over-interpretation.
+The conversational/question form and phone dictation leave room for later agent over-interpretation.
 
 ## General
 - Track clothing by story day.
